@@ -99,6 +99,7 @@ document.write(result);
 
 //comparison operators
 document.write("<br>");
+document.write("<br>");
 document.write(" comparison operators");
 var p = 20;
 var q = 10;
