@@ -1,11 +1,7 @@
 document.write("Learn javascript");//text displaying
-
-//alert("hello world")//showing a pop up alert
-
+alert("hello world")//showing a pop up alert
 console.log("hai")//output visible only at inspect code space 
-
 document.write("<h1>Learn JavaScript</h1>")//size variation of text display
-
 
 var aiswarya;//variable declaration
 var a = "aiswarya";//variable assign
@@ -106,9 +102,9 @@ var q = 10;
 document.write("<br>");
 document.write(p === q); //same or not value and also datatypes
 document.write("<br>");
-document.write(p == q);//check only value
+document.write(p == q);//check only same value or not
 document.write("<br>");
 document.write(p > q);//check greater or equals
-document.write("<br>");
+document.write("<br>");//break
 
 
